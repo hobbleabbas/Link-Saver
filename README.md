@@ -1,4 +1,4 @@
-# youtube_link_saver
+# YouTube Link Saver
 I had way too many YouTube links saved for later and it was slowing down my computer so I wrote an app that saves them w/ the title.
 
 The only other dependancy you need to use the app (for macOS and windows) is bs4. However, on Linux youll also need to download Tkinter (for the gui, theres also a CLI only version)
